@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AcentoTV" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="General",Acento TV
+https://glb.bozztv.com/glb/ssh101/0038/index.m3u8
+#EXTINF:-1 tvg-id="AhoraTV" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="General",Ahora TV (720p)
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="General",Alegre TV (720p)
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="BonaoTV" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="General",Bonao TV (720p)
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-id="Cacique TV" tvg-logo="" group-title="General",Cacique TV
+https://ed16ov.live.opencaster.com/rcmEBEGmbxHd/index.m3u8
 #EXTINF:-1 tvg-id="MicroVisión" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Micro Visión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="DeUltimoMinuto" tvg-logo="https://acortar.link/IaB0tv" group-title="General",De último Minuto
