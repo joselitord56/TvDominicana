@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MicroVisión" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Micro Visión
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="DeUltimoMinuto" tvg-logo="https://acortar.link/IaB0tv" group-title="General",De último Minuto
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="AionTelevision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Aion Televisión
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8?DVR
+#EXTINF:-1 tvg-id="TelemicroDigital15" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Telemicro Digital 15
+https://u.tvabierta.net/memfs/5a1b442b-1d43-4eab-aa7c-8d3ea3382c78_output_0.m3u8
+#EXTINF:-1 tvg-id="ColorVision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Color Visión
+https://live-b.cf.dmcdn.net/sec2(DZd-fcBhCRuZa1GxFmwaLXGQHShE70o6_6qzMJgdr0W0rVcs6Xlg0NvxR74PiddxZ7xH0p73fGdj1IMNai6yP_9pcJHR6S9vW6K1tD8KykzxM7RM7dvmDuB_byiuJ-nC)/dm/3/x7gy059/d/live-720.m3u8
+#EXTINF:-1 tvg-id="TelecentroCanal13" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Telecentro Canal 13
+https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37_output_0.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Cinevision Canal 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1 tvg-id="RTVDCanal4" tvg-logo="https://acortar.link/IaB0tv" group-title="General",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaLatinaCanal7" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Antena Latina Canal 7
+https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f_output_0.m3u8
+#EXTINF:-1 tvg-id="TeleuniversoCanal29" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Teleuniverso Canal 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-id="CanalRamónTolentino" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Canal Ramón Tolentino
+https://hilandofinotv.essastream.com:3053/live/hilandofinotvlive.m3u8
+#EXTINF:-1 tvg-id="TelesistemaCanal11" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Telesistema Canal 11
+https://u.tvabierta.net/memfs/e5ce4485-ee3c-4b68-829d-cbad8230ee68_output_0.m3u8
+#EXTINF:-1 tvg-id="CanalAmé47" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Canal Amé 47
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
+#EXTINF:-1 tvg-id="RNNCanal27" tvg-logo="https://acortar.link/IaB0tv" group-title="General",RNN Canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w2097825300.m3u8
+#EXTINF:-1 tvg-id="TelefuturoCanal23" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Telefuturo Canal 23
+https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
+#EXTINF:-1 tvg-id="CCVision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",CC Visión
+https://eu1.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-id="MakaoTV" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Makao TV
+https://live.obslivestream.com/makaomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BellavisiónCanal8" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Bellavisión Canal 8
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Cotubanama Tv
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TelemediosCanal25HD" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Telemedios Canal 25HD
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:-1 tvg-id="Digital15" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Digital 15
+https://u.tvabierta.net/memfs/5a1b442b-1d43-4eab-aa7c-8d3ea3382c78_output_0.m3u8
+#EXTINF:-1 tvg-id="QuisqueyaTvCanal17" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Quisqueya Tv Canal 17
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="LunaTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Luna Tv
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="OrbitTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Orbit Tv
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6HD" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Canal 6 HD
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+#EXTINF:-1 tvg-id="RocaVision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Roca Visión
+https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="SuperTv55" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Super Tv 55
+https://ss2.domint.net:3236/stv_str/supertv55/manifest.m3u8?DVR
+#EXTINF:-1 tvg-id="TelevisiondelEste" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Televisión del Este
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1 tvg-id="SantoDomingoTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Santo Domingo Tv
+https://cnn.hostlagarto.com/santodomingotv/index.m3u8
+#EXTINF:-1 tvg-id="TeleMaxRD" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Tele Max RD
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+#EXTINF:-1 tvg-id="GuamanteTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Guamante Tv
+https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
+#EXTINF:-1 tvg-id="CelestialTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Celestial Tv
+https://5790d294af2dc.streamlock.net/celestial/celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="CodigoTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Codigo Tv
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1 tvg-id="YunaVision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Yuna Visión
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+#EXTINF:-1 tvg-id="ForoVision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Foro visión
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Multivision" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Multivisión
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
+#EXTINF:-1 tvg-id="OrientalDigital" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Oriental Digital
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
+#EXTINF:-1 tvg-id="NaranjaTv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Naranja Tv
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="DeportesRD" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Deportes RD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
+#EXTINF:-1 tvg-id="Telebendicion" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Tele bendición
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="Agenda56Tv" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Agenda 56 Tv
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
+#EXTINF:-1 tvg-id="ZTV" tvg-logo="https://acortar.link/IaB0tv" group-title="General",ZTV (720p)
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="ZonavisionTV" tvg-logo="https://acortar.link/IaB0tv" group-title="General",Zonavision TV
+https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/playlist.m3u8
+
